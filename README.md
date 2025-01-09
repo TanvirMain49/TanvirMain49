@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="276" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+  <img height="276" src="https://i.ibb.co.com/f2g2d3s/Yellow-Black-Simple-Profile-Linked-In-Banner-2.png"  />
 </div>
 
 ###
