@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="276" src="https://i.ibb.co.com/f2g2d3s/Yellow-Black-Simple-Profile-Linked-In-Banner-2.png"  />
+  <img height="276" src="[https://i.ibb.co.com/f2g2d3s/Yellow-Black-Simple-Profile-Linked-In-Banner-2.png](https://i.ibb.co.com/tB14GmC/Whats-App-Image-2025-01-10-at-02-59-40-4116d8e5.jpg)"  />
 </div>
 
 ###
