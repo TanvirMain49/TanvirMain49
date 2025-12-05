@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://res.cloudinary.com/dvrn5hqsv/image/upload/v1764933123/tozg2ncdx2jmlelamiux.png"  />
+  <img height="300" src="https://res.cloudinary.com/dvrn5hqsv/image/upload/v1764933238/gxaciuyfpt2s6jes9twj.png"  />
 </div>
 
 ###
