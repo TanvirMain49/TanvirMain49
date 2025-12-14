@@ -31,9 +31,6 @@ Currently diving deep into **Next.js** and exploring the world of modern web dev
 
 ---
 
-
----
-
 ## 📫 Contact Me
 <div align="left">
   <a href="https://www.linkedin.com/in/tanvir-mahin-801954291/" target="_blank">
