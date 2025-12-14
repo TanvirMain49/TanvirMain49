@@ -1,73 +1,54 @@
 <div align="center">
-  <img height="300" src="https://res.cloudinary.com/dvrn5hqsv/image/upload/v1764933238/gxaciuyfpt2s6jes9twj.png"  />
+  <img height="200" src="https://res.cloudinary.com/dvrn5hqsv/image/upload/v1764933238/gxaciuyfpt2s6jes9twj.png" />
 </div>
 
-###
+# Mahinul Tanvir Mahin  
+**Full Stack Web Developer | CSE Student at Leading University**
 
-<h1 align="left">Mahinul Tanvir Mahin</h1>
+---
 
-###
+## 👋 About Me
+I’m a passionate Full-Stack Web Developer who loves building **beautiful and functional websites**.  
+Currently diving deep into **Next.js** and exploring the world of modern web development.  
 
-<h3 align="left">Full Stack Web Developer</h3>
+- 🎓 Pursuing **CSE degree** at Leading University  
+- 🌱 Currently learning **Next.js**  
+- 🎯 Goal: **Get an Internship or Job in 2025**  
+- 🎨 Fun Fact: I enjoy **sketching and playing football**  
 
-###
+---
 
-<h3 align="left">About me</h3>
-
-###
-
-<p align="left">Hey there! 👋<br><br>I’m a Full-Stack Web Developer and currently pursuing my CSE degree at Leading University. Building beautiful and functional websites isn’t just work for me—it’s my passion. There’s nothing more rewarding than bringing ideas to life through clean code and thoughtful design.<br>Every project is a chance to learn, grow, and embrace the endless journey of improvement.</p>
-
-###
-
-<p align="left">✨ Creating bugs since ...2024<br>📚 I'm currently learning ...Next.js<br>🎯 Goals: ...Get an Inter or Job in 2025<br>🎲 Fun fact: ...I love sketching and playing football</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
+## 🛠 Tech Stack
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
 </div>
 
-###
+---
 
+## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TanvirMain49&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TanvirMain49&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanvirMain49&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=TanvirMain49&show_icons=true&theme=dracula&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirMain49&layout=compact&theme=dracula&langs_count=5" height="150" />
 </div>
 
-###
+---
 
-<h3 align="left">Social</h3>
-
-###
-
+## 📫 Contact Me
 <div align="left">
   <a href="https://www.linkedin.com/in/tanvir-mahin-801954291/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" />
   </a>
   <a href="https://www.facebook.com/mahin.pro.9/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" height="40" />
   </a>
-  <a href="tanvirmahi607@gamil.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:tanvirmahi607@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" />
   </a>
 </div>
 
-###
