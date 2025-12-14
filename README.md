@@ -31,11 +31,6 @@ Currently diving deep into **Next.js** and exploring the world of modern web dev
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TanvirMain49&show_icons=true&theme=dracula&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirMain49&layout=compact&theme=dracula&langs_count=5" height="150" />
-</div>
 
 ---
 
